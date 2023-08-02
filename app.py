@@ -22,3 +22,7 @@ ejercicios.actividad_5.grados
 print("--- Ejercicio 6 ---")
 import ejercicios.actividad_6
 ejercicios.actividad_6.sumas_lista
+
+print("--- Ejercicio 7 ---")
+import ejercicios.actividad_7
+ejercicios.actividad_7.lista_mayor_menor
