@@ -26,3 +26,7 @@ ejercicios.actividad_6.sumas_lista
 print("--- Ejercicio 7 ---")
 import ejercicios.actividad_7
 ejercicios.actividad_7.lista_mayor_menor
+
+print("--- Ejercicio 8 ---")
+import ejercicios.actividad_8
+ejercicios.actividad_8.invertir_lista
