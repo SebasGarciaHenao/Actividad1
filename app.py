@@ -30,3 +30,7 @@ ejercicios.actividad_7.lista_mayor_menor
 print("--- Ejercicio 8 ---")
 import ejercicios.actividad_8
 ejercicios.actividad_8.invertir_lista
+
+print("--- Ejercicio 10 ---")
+import ejercicios.actividad_10
+ejercicios.actividad_10.factorial
