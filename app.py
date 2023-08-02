@@ -18,3 +18,7 @@ ejercicios.actividad_4.par_impar
 print("--- Ejercicio 5 ---")
 import ejercicios.actividad_5
 ejercicios.actividad_5.grados
+
+print("--- Ejercicio 6 ---")
+import ejercicios.actividad_6
+ejercicios.actividad_6.sumas_lista
