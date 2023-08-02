@@ -1,3 +1,3 @@
 # Actividad1
 Actividades
-hola
+En cada ejercicio esta el enunciado del problema.
