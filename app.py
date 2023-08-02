@@ -34,3 +34,11 @@ ejercicios.actividad_8.invertir_lista
 print("--- Ejercicio 10 ---")
 import ejercicios.actividad_10
 ejercicios.actividad_10.factorial
+
+
+print("--- Ejercicio 13 ---")
+import ejercicios.actividad_13
+ejercicios.actividad_13.suma
+ejercicios.actividad_13.resta
+ejercicios.actividad_13.multiplicacion
+ejercicios.actividad_13.division
