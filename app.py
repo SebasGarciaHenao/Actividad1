@@ -35,6 +35,10 @@ print("--- Ejercicio 10 ---")
 import ejercicios.actividad_10
 ejercicios.actividad_10.factorial
 
+print("--- Ejercicio 12 ---")
+import ejercicios.actividad_12
+ejercicios.actividad_12.i
+
 
 print("--- Ejercicio 13 ---")
 import ejercicios.actividad_13
